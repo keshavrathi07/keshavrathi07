@@ -17,21 +17,19 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,git,github" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,git,github" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,vscode,c" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,vscode,c" />
 </p>
 
 ---
@@ -52,6 +50,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:keshavrathi072006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -63,5 +63,5 @@
 ## ✨ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Eat.%20Sleep.%20Code.%20Repeat." />
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&author_color=58a6ff&text_color=00f7ff&border_color=30363d&quote=Eat%20Sleep%20Code%20Repeat" />
 </p>
