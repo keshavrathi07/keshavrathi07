@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Rathi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Building+Real+World+Tech+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Building+Real+World+Solutions" />
 </p>
 
 ---
@@ -57,7 +57,5 @@
 ## ✨ Dev Quote
 
 <p align="center">
-
-### *"Eat. Sleep. Code. Repeat."*
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
