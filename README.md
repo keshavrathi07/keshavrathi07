@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Keshav Rathi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Building+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Building+Real+World+Solutions" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
 - 🤖 Exploring AI, Machine Learning & Deep Learning  
 - 🌐 Building Full Stack Web Applications  
@@ -18,13 +18,19 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs" /><br><br>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,git,github" /><br><br>
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs" />
 
-<img src="https://skillicons.dev/icons?i=docker,linux,vscode" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql,git,github" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,vscode,c" />
 
 </p>
 
@@ -33,7 +39,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=keshavrathi07&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=keshavrathi07&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -42,7 +48,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/keshav-rathi-108497329/" target="_blank">
+<a href="https://www.linkedin.com/in/keshav-rathi-108497329/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -57,5 +63,5 @@
 ## ✨ Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Eat.%20Sleep.%20Code.%20Repeat." />
 </p>
